@@ -1,0 +1,63 @@
+.container{
+  width:50px;
+  height:50px;
+}
+.bubble{
+    animation: bubble3 2s infinite;
+}
+.bubble2{
+    animation: bubble1 2s infinite;
+}
+.bubble3{
+    animation: bubble2 2s infinite;
+}
+@keyframes bubble1{
+   20%{
+    opacity:0
+  }
+   30%{
+    opacity:0
+  }
+   40%{
+    opacity:0
+  }
+   50%{
+    opacity:0
+  }
+   60%{
+    opacity:0
+  }
+
+  70%{
+    opacity:0
+  }
+  80%{
+    opacity:0
+  }
+   90%{
+    opacity:0
+
+
+}
+}
+@keyframes bubble2{
+  70%{
+    opacity:0
+  }
+   80%{
+    opacity:0
+}
+  90%{
+    opacity:0
+}
+  95%{
+    opacity:0
+}
+
+}
+
+@keyframes bubble3{
+   100%{
+    opacity:0
+}
+}
